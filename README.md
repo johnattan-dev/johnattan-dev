@@ -5,7 +5,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenh
 ---
 
 ## 🛠️ Habilidades
-- **Front-end:** React, TypeScript, NextJS, HTML, CSS
+- **Front-end:** TypeScript, NextJS, React, HTML, CSS
 - **Back-end:** NestJS, Node.js
 - **Banco de Dados:** PostgreSQL, Redis, Prisma
 - **Outras Tecnologias:** Git, Docker
