@@ -1,6 +1,6 @@
 # Olá, eu sou Johnattan Silva Ferreira! 👋
 
-Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência com **TypeScript**, **React**, **NextJS**, **NestJS** e **Bancos de Dados**, e atualmente estou concluindo meu primeiro projeto.
+Estou me tornando um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência com **TypeScript**, **React**, **NextJS**, **NestJS** e **Bancos de Dados**.
 
 ---
 
