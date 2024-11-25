@@ -1,28 +1,28 @@
-# Olá, eu sou Johnattan Silva Ferreira! 👋
+# Hello, I'm Johnattan Silva Ferreira! 👋
 
-- Estou me tornando um **Desenvolvedor Full-Stack** e finalizando meu curso de **Engenharia de Computação**.
-- Sou apaixonado por tecnologia e inovação.
-- Tenho experiência com **TypeScript**, **React**, **NextJS**, **NestJS** e **Bancos de Dados**.
-
----
-
-## 🛠️ Habilidades
-- **Front-end:** TypeScript, NextJS, React, HTML, CSS
-- **Back-end:** NestJS, Node.js
-- **Banco de Dados:** PostgreSQL, Redis, Prisma
-- **Outras Tecnologias:** Git, Docker
+- I am becoming a **Full-Stack Developer** and finishing my **Computer Engineering** degree.  
+- I am passionate about technology and innovation.  
+- I have experience with **TypeScript**, **React**, **NextJS**, **NestJS**, and **Databases**.
 
 ---
 
-## 🎯 Objetivos
-Busco **oportunidades profissionais** para aplicar minhas habilidades em desenvolvimento full-stack, seja em estágios ou posições iniciais como desenvolvedor.
+## 🛠️ Skills
+- **Front-end:** TypeScript, NextJS, React, HTML, CSS  
+- **Back-end:** NestJS, Node.js  
+- **Databases:** PostgreSQL, Redis, Prisma  
+- **Other Technologies:** Git, Docker  
 
 ---
 
-## 📫 Contato
-- **E-mail:** johnattan.silva.ferreira@gmail.com  
-- **LinkedIn:** [linkedin.com/in/johnattan-sf](https://linkedin.com/in/johnattan-sf)
+## 🎯 Goals
+I am looking for **professional opportunities** to apply my full-stack development skills, whether in internships or entry-level developer positions.
 
 ---
 
-Obrigado por visitar meu perfil! 😄  
+## 📫 Contact
+- **Email:** johnattan.silva.ferreira@gmail.com  
+- **LinkedIn:** [linkedin.com/in/johnattan-sf](https://linkedin.com/in/johnattan-sf)  
+
+---
+
+Thank you for visiting my profile! 😄
