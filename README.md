@@ -1,8 +1,8 @@
 # Hello, I'm Johnattan Silva Ferreira! 👋
 
-- I am becoming a **Full-Stack Developer** and finishing my **Computer Engineering** degree.  
-- I am passionate about technology and innovation.  
-- I have experience with **TypeScript**, **React**, **NextJS**, **NestJS**, and **Databases**.
+- A **Full-Stack Developer in progress**, nearing the completion of my **Computer Engineering** degree.  
+- Passionate about **technology**, **innovation**.  
+- Experienced in **TypeScript**, **React**, **NextJS**, **NestJS**, and working with **databases**.
 
 ---
 
