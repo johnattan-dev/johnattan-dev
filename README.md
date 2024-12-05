@@ -9,8 +9,8 @@
 ## 🛠️ Skills
 - **Front-end:** TypeScript, NextJS, React, HTML, CSS  
 - **Back-end:** NestJS, Node.js  
-- **Databases:** PostgreSQL, Redis, Prisma  
-- **Other Technologies:** Git, Docker  
+- **Databases:** PostgreSQL, Redis
+- **Other Technologies:** Git, Docker, Prisma ORM  
 
 ---
 
